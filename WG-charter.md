@@ -91,7 +91,7 @@ transparent use and reporting of the Working Group funds.
 Participants will be a cross-section of user experience professionals,
 educators, accessibility, and global representatives.
 
-Co-chairs: Tania Allard and Jannis Leidel.
+Co-chairs: Tania Allard.
 
 [^1]: Often referred to as personas in the design and UX jargon
 
